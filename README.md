@@ -11,8 +11,9 @@
 - 📫 How to reach me 
   - Skype/Phone: +86 152 0642 4953
   - Email: luxyzju@zju.edu.cn
-  - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - WeChat: luxiangyugo
+  - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
+  - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
 - (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, L1 and so on. 
 - **AND WE ARE WELCOMING ALL INTERESTED**)
