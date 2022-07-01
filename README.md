@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HobbitArmy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- ### Hi,there. This is PandaGreen 👋
+- ### Hi,there👋. This is PandaGreen 🐼🟢
 - 😄 I’m currently a Ph.D. student🎓 studying at [IGE-Lab/Dr. LIU][IGE] in [BEFC][BEFC] college of ZJU.
 - 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 👀 I’m interested in Processing and Interperting Mono-Image taken from UAV✈️. Then Georeference them directly for generating target traits distribution (in Crop Land). and Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
