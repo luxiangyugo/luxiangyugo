@@ -3,7 +3,7 @@
 - ### Hi,there. This is PandaGreen 👋
 - 😄 I’m currently a Ph.D. student🎓 studying in [IGE-Lab of][IGE] in [BEFC][BEFC] college of ZJU. (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, L1 and so on. **AND WE ARE WELCOMING ALL INTERESTED**)
 - 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
-- 👀 I’m interested in Processing and Interperting Mono-Image taken from UAV✈️. Then Georeference them directly for generating target traits distribution (in Crop Land). And Any Open Source COOL😎 Things (such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
+- 👀 I’m interested in Processing and Interperting Mono-Image taken from UAV✈️. Then Georeference them directly for generating target traits distribution (in Crop Land). and Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
 - 🌱 I’m currently learning *Visual SLAM*, *Photogrammetry of Drone Image*, and *SOTA DL Methods*.
 - 🙋 I'm specialized in Python programming, Image processing, QGIS and Drone-image managing, Machine Learning (including Deep-learning)
 - 💞️ I’m looking to collaborate on the fully-automated UAV image processing workflow for remote-sensing of the farm land.
