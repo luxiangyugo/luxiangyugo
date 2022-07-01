@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HobbitArmy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - ### Hi,there. This is PandaGreen 👋
-- 😄 I’m currently a Ph.D. student🎓 studying in [IGE-Lab of][IGE] in [BEFC][BEFC] college of ZJU. (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, L1 and so on. **AND WE ARE WELCOMING ALL INTERESTED**)
+- 😄 I’m currently a Ph.D. student🎓 studying in [IGE-Lab of][IGE] in [BEFC][BEFC] college of ZJU.
 - 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 👀 I’m interested in Processing and Interperting Mono-Image taken from UAV✈️. Then Georeference them directly for generating target traits distribution (in Crop Land). and Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
 - 🌱 I’m currently learning *Visual SLAM*, *Photogrammetry of Drone Image*, and *SOTA DL Methods*.
@@ -13,6 +13,8 @@
   - Email: luxyzju@zju.edu.cn
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - WeChat: luxiangyugo
+
+- (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, L1 and so on. **AND WE ARE WELCOMING ALL INTERESTED**)
 - I'm willing to hear from you.😃
 <!---
 HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
