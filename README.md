@@ -4,7 +4,7 @@
 - 😄 I’m currently a Ph.D. student🎓 studying at [IGE-Lab/Dr. LIU][IGE] in [BEFC][BEFC] college of ZJU.
 - 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 😋 I’m interested in **Processing and Interperting Mono-Image from UAV**✈️. Then **Georeference directly for Generating target traits distribution (in Crop Land)**. and Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
-- 🌱 I’m currently learning  ~~Visual SLAM~~  *Photogrammetry of Drone Images*, and *SOTA DL Methods*.**
+- 🌱 I’m currently learning  ~~Visual SLAM~~  *Photogrammetry of Drone Images*, and *SOTA DL Methods*.
 - (Actually learning more interesting things including *Web Development(HTTP/CSS/JS/Django)* also Quant-Trade with [Backtrader][Backtrader].)
 - 🙋 I'm specialized in **Python programming, Image processing, QGIS and Drone-image managing, Machine Learning (including Deep-learning).**
 - 💞️ I’m looking to collaborate on the **fully-automated UAV image processing workflow for remote-sensing of the farm land.**
