@@ -16,7 +16,7 @@
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
-- (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, L1 and so on. 
+- (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, H20T and so on. 
 - **AND WE ARE WELCOMING ALL INTERESTED**)
 - I'm willing to hear from you.😃
 <!---
