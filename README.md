@@ -16,9 +16,8 @@
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
-- (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, H20T and so on. 
-- **AND WE ARE WELCOMING ALL INTERESTED**)
-- I'm willing to hear from you.😃
+- (By the way, our Lab got many Drones and mountable Sensors including P4M-RTK, M300, L1, P1, H20T and so on. **AND WE ARE WELCOMING ALL INTERESTED**)
+- Be willing to hear from you.😃
 <!---
 HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
