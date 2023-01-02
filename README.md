@@ -3,12 +3,12 @@
 - ### Hi,there👋. This is **PandaGreen 🐼🟢**
 - 😄 I’m currently a Ph.D. student🎓 studying at [IGE-Lab/Dr. LIU][IGE] in [BEFC][BEFC] college of ZJU.
 - 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
-- 😋 I’m interested in **Processing and interpretation of aerial images**, **Direct Geolocation of target in Drone images**, and automatic data processing workflow. Also Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
-- 🌱 I’m currently learning  ~~Visual SLAM~~  *Photogrammetry of Drone Images*, and *SOTA DL Methods*.
-- (Actually learning more interesting things including *Web Development(HTTP/CSS/JS/Django)* also Quant-Trade with [Backtrader][Backtrader].)
-- 🙋 I'm specialized in **Python programming, Image processing, QGIS and Drone-image managing, Machine Learning (including Deep-learning).**
-- 💞️ I’m looking to collaborate on the **fully-automated UAV image processing workflow for remote-sensing of the farm land.**
-- 🐲 Also, I like playing **Board Games, D&D-5e TRPG, and LOL. Hiking, badminton, swimming are also my dishes.**
+- 😋 I’m interested in **Processing and interpretation of aerial images**, **Direct Geo-locate of target in original Drone images**, and automatic data processing workflow. Also Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
+- 🌱 I’m currently learning *Photogrammetric Computer Vision* book by Förstner, and *SOTA DL Methods*.
+- (Also get to know and learn some interesting things randomly, recently including *UAV-video filming and editing*, *Web development(Django)* and [Permaculture] [Permaculture].)
+- 🙋 I'm specialized in **Python programming, Image processing, QGIS and Drone-image managing, Machine Learning/Deep Learning mdoel utilization and improvement.**
+- 💞️ I’m looking to collaborate on the **fully-automated UAV-image processing workflow for monitoring field crop.**
+- 🐲 Also, I like playing **Board Games, D&D-5e TRPG, and LOL, Hiking, Badminton, Swimming.**
 - 📫 How to reach me 
   - Skype/Phone: +86 152 0642 4953
   - Email: luxyzju@zju.edu.cn
@@ -23,7 +23,7 @@ HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[Backtrader]: https://github.com/mementum/backtrader
+[Permaculture]: (https://oaec.org/our-work/projects-and-partnerships/permaculture/what-is-permaculture/)
 [IGE]: https://person.zju.edu.cn/en/liufei
 [BEFC]: http://www.caefs.zju.edu.cn/english/
 [ODM]: https://github.com/OpenDroneMap/ODM 
