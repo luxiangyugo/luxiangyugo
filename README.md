@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 [Permaculture]: https://oaec.org/our-work/projects-and-partnerships/permaculture/what-is-permaculture/
 [IGE]: https://person.zju.edu.cn/en/liufei
-[BEFC]: http://www.caefs.zju.edu.cn/english/
+[BEFC]: (http://www.caefs.zju.edu.cn/caefsen/)
 [ODM]: https://github.com/OpenDroneMap/ODM 
 [IMG_ANA]: https://github.com/clolsonus/ImageAnalysis 
