@@ -1,7 +1,7 @@
 
 
 - ### Hi,there👋. This is **PandaGreen 🐼🟢**
-- 😄 I’m currently a Ph.D. student🎓 studying at [IGE-Lab/Dr. LIU][IGE] in [BEFC][BEFC] college of ZJU.
+- 😄 I’m currently a Ph.D. student🎓 studying at [iGE-Lab/Dr. LIU][IGE] in [BEFC][BEFC] college of ZJU.
 - 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 😋 I’m interested in **Processing and interpretation of aerial images**, **Direct Geo-locate of target in original Drone images**, and automatic data processing workflow. Also Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
 - 🌱 I’m currently learning *Photogrammetric Computer Vision* book by Förstner, and *SOTA DL Methods*.
@@ -16,7 +16,7 @@
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
-- (By the way, our Lab  [IGE-Lab][IGE] own many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,... **WE ARE WELCOMING ALL INTERESTED**)
+- (By the way, our [iGE-Lab][IGE] has many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing goods with them **WE ARE WELCOMING ALL INTERESTED**)
 - Be willing to interact with Anybody.😃
 <!---
 HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
