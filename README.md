@@ -1,7 +1,7 @@
 
 
 - ### Hi👋, this is **Xiangyu**
-- 😄 I’m a Ph.D. student🎓 studying at [iGE-Lab/Prof. LIU][IGE] in Zhejiang University, and currently visiting [Ensminger Lab][Ensminger Lab] at University of Toronto for 1 year. 
+- 😄 I’m a Ph.D. student🎓 at [iGE-Lab/Prof. LIU][IGE] @ **Zhejiang University**, and currently visiting [Ensminger Lab] @ **University of Toronto** for 1 year. 
 - 🎓 Received my B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 🎄 Interest in UAV, image processing, deep-learning techniques especially in **Agriculture and Ecology** scenes.
 - 🔬 Specialize in image processing, drone operating and QGIS, data-driven/deep-learning based models. My previous interesting projects are listed here [research]. 
