@@ -1,23 +1,23 @@
 
 
-- ### Hi,there👋. This is **PandaGreen 🐼🟢**
-- 😄 I’m currently a Ph.D. student🎓 studying at [iGE-Lab/Dr. LIU][IGE] in [BEFC][BEFC] college of ZJU.
-- 🎓 I received the B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
-- 😋 I’m interested in **Processing and interpretation of aerial images**, **Direct Geo-locate of target in original Drone images**, and automatic data processing workflow. Also Open Source COOL Things (😎such as [OpenDroneMap][ODM] and [ImageAnalysis][IMG_ANA]).
-- 🌱 I’m currently learning *Photogrammetric Computer Vision* book by Förstner, and *SOTA DL Methods*.
-- (Also get to know and learn some interesting things randomly, recently including 🎥*UAV-video filming and editing*, *Web development(Django)* and [Permaculture] .)
-- 🙋 I'm specialized in **Python programming, Image processing, QGIS and Drone-image managing, Machine Learning/Deep Learning mdoel utilization and improvement.**
-- 💞️ I’m looking to collaborate on the **fully-automated UAV-image processing workflow for monitoring field crop.**
-- 🐲 Also, I like playing **Board Games, D&D-5e TRPG, and LOL, Hiking, Badminton, Swimming.**
-- 📫 How to reach me 
+- ### Hi👋, this is **Xiangyu**
+- 😄 I’m a Ph.D. student🎓 studying at [iGE-Lab/Prof. LIU][IGE] in Zhejiang University. And I am currently a visiting Ph.D student at University of Toronto, [Ensminger Lab][Ensminger Lab]. 
+- 🎓 Received my B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
+- 🎄 Interest in UAV, image processing, deep-learning techniques especially in **Agriculture and Ecology** scenes.
+- 🔬 Specialize in image processing, drone operating and QGIS, data-driven/deep-learning based models. My previous interesting projects are listed here [research]. 
+- 🔑 Now work on **1.Paddy field weed sensing & grading**; **2.Forest tree crown instance segmentation**.
+- 🌱 Being a divergent-thinking guy, I randomly learn any interesting knowledge (recently including UAV-video filming&editing🎥, and [Permaculture]) and open-source cool projects.
+- 🐣 My life goal is to **teach**, **study** and **run a farm**. 
+- 📷 I like playing board games, D&D TRPG, LOL, and also hiking, cycling & taking photos.
+- 📫 Please contact me through: 
   - Skype/Phone: +86 152 0642 4953
   - Email: luxyzju@zju.edu.cn
   - WeChat: luxiangyugo
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
-- (By the way, our [iGE-Lab][IGE] has many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing goods with them **WE ARE WELCOMING ALL INTERESTED**)
-- Be willing to interact with Anybody.😃
+- (🧲 By the way, our [iGE-Lab][IGE] has many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing goods with them **Welcome all!**)
+
 <!---
 HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,4 +27,7 @@ You can click the Preview link to take a look at your changes.
 [IGE]: https://person.zju.edu.cn/en/liufei#916273
 [BEFC]: (http://www.caefs.zju.edu.cn/caefsen/)
 [ODM]: https://github.com/OpenDroneMap/ODM 
-[IMG_ANA]: https://github.com/clolsonus/ImageAnalysis 
+[Drone-Footprints]: https://github.com/spifftek70/Drone-Footprints 
+[Ensminger Lab]: https://ensminger.csb.utoronto.ca/profile-luke-lu/
+[research]: https://hobbitarmy.github.io/research 
+
