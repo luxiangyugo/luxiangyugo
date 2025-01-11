@@ -16,7 +16,7 @@
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
-- (🧲 By the way, our [iGE-Lab][IGE] has many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing goods with them **Welcome all!**)
+- (🧲 By the way, our [iGE-Lab][IGE] has many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing research with them. **And Welcome all who interested in!**)
 
 <!---
 HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
