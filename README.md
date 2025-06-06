@@ -5,18 +5,17 @@
 - 🎓 Received my B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 🎄 Interest in UAV, image processing, deep-learning techniques especially in **Agriculture and Ecology** scenes.
 - 🔬 Specialize in image processing, drone operating and QGIS, data-driven/deep-learning based models. My previous interesting projects are listed here [research]. 
-- 🔑 Now work on **1.Paddy field weed sensing & grading**; **2.Forest tree crown instance segmentation**.
+- 🔑 I amd now working on **Paddy field abnormal region (pest/disease stress) detection**.
 - 🌱 Being a divergent-thinking guy, I randomly learn any interesting knowledge (recently including UAV-video filming&editing🎥, and [Permaculture]) and open-source cool projects.
-- 🐣 My life goal is to **teach**, **study** and **run a farm**. 
-- 📷 I like playing board games, D&D TRPG, LOL, and also hiking, cycling & taking photos.
-- 📫 Please contact me through: 
-  - Skype/Phone: +86 152 0642 4953
+- 🐣 My life goal is to **learn**, **teach**, and **run a FARM**. 
+- 📷 I like Photography, Music, Movie, Board games, and also outdoor hiking & cycling.
+- 📫 Learn more about me:
   - Email: luxyzju@zju.edu.cn
   - WeChat: luxiangyugo
   - Research Gate: https://www.researchgate.net/profile/Xiangyu_Lu6
   - Zhihu: https://www.zhihu.com/people/lu-xiang-yu-77-61
 
-- (🧲 By the way, our [iGE-Lab][IGE] has many Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing research with them. **And Welcome all who interested in!**)
+- (🧲 Our [iGE-Lab][IGE] lab is welcoming all who interested in! The lab has the most advance and fancy Drones and Sensors including M3M, M3E, P4M-RTK, M300, L1, P1, H20T,..., and doing research with them.)
 
 <!---
 HobbitArmy/HobbitArmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +27,5 @@ You can click the Preview link to take a look at your changes.
 [BEFC]: (http://www.caefs.zju.edu.cn/caefsen/)
 [ODM]: https://github.com/OpenDroneMap/ODM 
 [Drone-Footprints]: https://github.com/spifftek70/Drone-Footprints 
-[Ensminger Lab]: https://ensminger.csb.utoronto.ca/profile-luke-lu/
 [research]: https://hobbitarmy.github.io/research 
 
