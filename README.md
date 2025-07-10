@@ -1,8 +1,8 @@
 
 
 - ### Hi👋, this is **Xiangyu**
-- 😄 I’m a Ph.D. student (-2025.12🎓) at [iGE-Lab/Prof. LIU][IGE] @ **Zhejiang University**. I anticipate to graduate by the end of this year and is currently seeking academic positions 😀. 
-- 🎓 Received my B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
+- 😄 I’m a Ph.D. student (-2025.12) at [iGE-Lab/Prof. LIU][IGE] @ **Zhejiang University**. 🎓I anticipate to graduate by the end of this year and is currently **seeking academic positions**! 
+- 🚜 Received my B.E. degree in Agricultural Mechanization and Automation in Northwest A&F University in 2020.
 - 🎄 Interested in UAV-based remote sensing, image processing, deep-learning application in **Agriculture and Ecology** scenes.
 - 🔬 Specialize in Python programming, image processing, UAV operation and QGIS, also the data-driven/deep-learning based models. My previous interesting projects are listed here [research]. 
 - 🔑 I amd now working on **Paddy field abnormal region (pest/disease stress) detection**.
